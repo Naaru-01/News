@@ -5,7 +5,7 @@
 
     Hey ! What’s up ! My Name’s Narayan, I am really found myself proud to present this project .
 
-  **-->**  Through this project I aimed to develop an android application using JAVA called WORLD AFFAIRS
+  **-->**  Through this project I aimed to develop an android application using JAVA 
   
   **-->**  By using this app you will get all the news around the globe. I have used new API in it.
   
