@@ -1,29 +1,18 @@
-# World Affairs - Android 
-# JAVA | XML | ANDROID STUDIO | APIs
+# News  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
+  Available on Google Play Store : https://play.google.com/store/apps/details?id=com.nsapp.android.newsfeed
 >## PROJECT DESCRIPTION :
-
-    Hey ! What’s up ! My Name’s Narayan, I am really found myself proud to present this project .
 
   **-->**  Through this project I aimed to develop an android application using JAVA 
   
   **-->**  By using this app you will get all the news around the globe. I have used new API in it.
   
-  **-->**  User can view his personalized new by changing the categories of the news from select category Activity.INTERNET CONNECTION IS MANDATORY TO GET LATEST FEED.
+  **-->**  User can view his personalized new by changing the categories of the news from select category Activity. 
+  `INTERNET CONNECTION IS MANDATORY TO GET LATEST FEED.`
 
   **-->**   I have used various highly skilled concepts like FRAGMENTS, ADAPTERS AND RECYCLER VIEW,etc. in this project. 
 
-
-
-
-
-I experienced myself very bold, happy and innovative while working on this project.
-I think and hope , All the users would like this system ! shouldn’t it ?
-
-
->Thanks and Regards !
-  
-  **Narayan** 
 
 ### Features
 
